@@ -113,6 +113,7 @@ server_socket.close()
 ```
 
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/017a5300-51e3-40ef-8f6e-4a7fd236a88d)
 ### CLIENT:
 ![image](https://github.com/user-attachments/assets/017a5300-51e3-40ef-8f6e-4a7fd236a88d)
 
